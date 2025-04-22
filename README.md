@@ -3,6 +3,7 @@
 ## Integrantes do Grupo
 - Agos Dalcin
 - Antonio Favarin Freire
+- Gustavo Schneider Rodrigues
 - Victor Oladio Boehm Lapa
 
 ## Descrição do Problema
